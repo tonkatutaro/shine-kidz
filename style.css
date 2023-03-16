@@ -222,7 +222,7 @@ header nav {
 
 
 header nav h1 {
-  margin-left: 15%;
+  margin-left: 8%;
   font-size: 2rem;
   font-weight: bold;
 }
@@ -520,6 +520,8 @@ footer li+li p:first-of-type{
 
 footer iframe {
   margin-top: 40px;
+  object-fit: cover;
+  width: 100%;
 }
 
   
